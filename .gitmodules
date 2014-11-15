@@ -1,0 +1,3 @@
+[submodule "dotfiles"]
+  url  = https://github.com/zacholauson/dotfiles-cookbook.git
+  path = cookbooks/dotfiles
