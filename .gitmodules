@@ -1,3 +1,7 @@
 [submodule "dotfiles"]
   url  = https://github.com/zacholauson/dotfiles-cookbook.git
   path = cookbooks/dotfiles
+
+[submodule "base"]
+  url  = https://github.com/zacholauson/base-cookbook.git
+  path = cookbooks/base-cookbook
